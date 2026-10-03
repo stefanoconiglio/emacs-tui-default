@@ -44,3 +44,7 @@ system binary directly, use:
 ```bash
 /usr/bin/emacs
 ```
+
+## License
+
+GPL-3.0-or-later. See [LICENSE](LICENSE).
